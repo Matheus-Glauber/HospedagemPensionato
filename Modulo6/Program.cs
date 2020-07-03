@@ -41,6 +41,8 @@ namespace Modulo6
                     Console.WriteLine(i + ": " + ListaDeQuartos[i].Nome + ", " + ListaDeQuartos[i].Email);
                 }
             }
+
+            Console.WriteLine(Calculator.Sum(10, 20, 30, 40));
         }
     }
 }
