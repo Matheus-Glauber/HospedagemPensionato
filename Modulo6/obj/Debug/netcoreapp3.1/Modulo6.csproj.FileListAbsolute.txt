@@ -1,0 +1,13 @@
+G:\Curso de C#\Projetos\Modulo6\Modulo6\bin\Debug\netcoreapp3.1\Modulo6.exe
+G:\Curso de C#\Projetos\Modulo6\Modulo6\bin\Debug\netcoreapp3.1\Modulo6.deps.json
+G:\Curso de C#\Projetos\Modulo6\Modulo6\bin\Debug\netcoreapp3.1\Modulo6.runtimeconfig.json
+G:\Curso de C#\Projetos\Modulo6\Modulo6\bin\Debug\netcoreapp3.1\Modulo6.runtimeconfig.dev.json
+G:\Curso de C#\Projetos\Modulo6\Modulo6\bin\Debug\netcoreapp3.1\Modulo6.dll
+G:\Curso de C#\Projetos\Modulo6\Modulo6\bin\Debug\netcoreapp3.1\Modulo6.pdb
+G:\Curso de C#\Projetos\Modulo6\Modulo6\obj\Debug\netcoreapp3.1\Modulo6.csprojAssemblyReference.cache
+G:\Curso de C#\Projetos\Modulo6\Modulo6\obj\Debug\netcoreapp3.1\Modulo6.csproj.CoreCompileInputs.cache
+G:\Curso de C#\Projetos\Modulo6\Modulo6\obj\Debug\netcoreapp3.1\Modulo6.AssemblyInfoInputs.cache
+G:\Curso de C#\Projetos\Modulo6\Modulo6\obj\Debug\netcoreapp3.1\Modulo6.AssemblyInfo.cs
+G:\Curso de C#\Projetos\Modulo6\Modulo6\obj\Debug\netcoreapp3.1\Modulo6.dll
+G:\Curso de C#\Projetos\Modulo6\Modulo6\obj\Debug\netcoreapp3.1\Modulo6.pdb
+G:\Curso de C#\Projetos\Modulo6\Modulo6\obj\Debug\netcoreapp3.1\Modulo6.genruntimeconfig.cache
