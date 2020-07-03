@@ -33,7 +33,7 @@ namespace Modulo6
             }
 
             Console.WriteLine("Quartos Ocupados: ");
-
+            
             for (int i = 0; i < QuantidadeDeQuartos; i++)
             {
                 if (ListaDeQuartos[i] != null)
@@ -43,6 +43,16 @@ namespace Modulo6
             }
 
             Console.WriteLine(Calculator.Sum(10, 20, 30, 40));
+
+            int N = 10;
+            Calculator.Triplicar(ref N);
+            Console.WriteLine(N);
+
+            int N2 = 10;
+            int Dobrado;
+            Calculator.Dobrar(N2, out Dobrado);
+            Console.WriteLine($"O dobro de: {N2}, é = {Dobrado}");
+
         }
     }
 }

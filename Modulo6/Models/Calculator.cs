@@ -16,5 +16,14 @@ namespace Modulo6.Models
 
             return resul;
         }
+
+        public static void Dobrar(int valorEntrada, out int valorDobrado)
+        {
+            valorDobrado = valorEntrada * 2;
+        }
+        public static void Triplicar(ref int valor)
+        {
+            valor = valor * 3;
+        }
     }
 }
