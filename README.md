@@ -7,4 +7,6 @@ Entendendo e implementando os conceitos de parâmetros variáveis com `params`.
 
 Entendendo e implementando os conceitos dos modificadores de parâmetros `ref` e `out`.
 
+Entendendo e implementando os conceitos de `Listas(List)` com *C#*.
+
 Autor: `Matheus Glauber Rodrigues Jordão` [Linkedin](https://www.linkedin.com/in/matheusglauber/).
